@@ -1,1 +1,2 @@
-import pp
+import XX
+XX.Vyper()
