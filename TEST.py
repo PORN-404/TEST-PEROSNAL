@@ -1,2 +1,2 @@
 import XX
-XX.Vyper()
+XX.Random()
